@@ -1,6 +1,6 @@
 # 💊 Sistema de Gestão para Loja de Suplementos — Mini TCC
 
-Este projeto é um "mini TCC" feito na ETEC em 2023 na disciplina de JAVA que consiste no desenvolvimento de um **sistema de gerenciamento** completo (CRUD) para uma loja de suplementos. A aplicação foi criada com o objetivo de centralizar e otimizar as operações de controle de estoque, pessoal e vendas, garantindo uma gestão eficiente.
+Este projeto consiste no desenvolvimento de um sistema de gerenciamento completo (CRUD) para uma loja de suplementos. A aplicação foi criada com o objetivo de centralizar e otimizar as operações de controle de estoque, pessoal e vendas, garantindo uma gestão eficiente.
 
 ---
 
