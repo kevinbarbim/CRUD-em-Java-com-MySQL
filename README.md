@@ -1,4 +1,4 @@
-# 💊 Sistema de Gestão para Loja de Suplementos — Mini TCC
+# 💊 Sistema de Gestão para Loja de Suplementos
 
 Este projeto consiste no desenvolvimento de um sistema de gerenciamento completo (CRUD) para uma loja de suplementos. A aplicação foi criada com o objetivo de centralizar e otimizar as operações de controle de estoque, pessoal e vendas, garantindo uma gestão eficiente.
 
